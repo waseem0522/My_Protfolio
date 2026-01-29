@@ -1,0 +1,376 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "experience": "Experience",
+    "projects": "Projects",
+    "skills": "Skills",
+    "testimonials": "Testimonials",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hello, I'm",
+    "cta": {
+      "viewWork": "View My Work",
+      "getInTouch": "Get In Touch"
+    },
+    "scrollDown": "Scroll Down",
+    "scrollToExplore": "Scroll to explore",
+    "fullStackDeveloper": "Full Stack Developer",
+    "techStack": "Tech Stack:",
+    "codeLines": {
+      "line1": "const developer = {",
+      "line2": "  name: \"Developer\",",
+      "line3": "  skills: [\"React\", \"Next.js\", \"TypeScript\"],",
+      "line4": "  passion: \"Building amazing things\"",
+      "line5": "};"
+    },
+    "terminal": {
+      "title": "terminal",
+      "npmRun": "npm run dev",
+      "ready": "✓ Ready in 2.3s",
+      "gitStatus": "git status",
+      "onBranch": "On branch: main",
+      "codeVersion": "code --version"
+    },
+    "roles": {
+      "fullStackDeveloper": "Full Stack Developer",
+      "softwareEngineer": "Software Engineer",
+      "aiEnthusiast": "AI Enthusiast",
+      "problemSolver": "Problem Solver"
+    },
+    "bio": "Passionate Full Stack Developer & DevOps Engineer crafting innovative cloud-native solutions",
+    "location": {
+      "ksa": "Kingdom of Saudi Arabia (KSA)",
+      "ksaShort": "KSA"
+    }
+  },
+  "about": {
+    "title": "About Me",
+    "subtitle": "Get to know me better",
+    "years": "Years of Experience",
+    "projects": "Projects Completed",
+    "clients": "Happy Clients",
+    "technologies": "Technologies Mastered",
+    "badge": "About Me",
+    "heading": "Crafting Digital Excellence",
+    "headingSubtitle": "Transforming ideas into powerful, scalable solutions that drive business success",
+    "statProjects": "Projects Delivered",
+    "statCode": "Lines of Code",
+    "statSatisfaction": "Client Satisfaction",
+    "statExperience": "Years Experience",
+    "letsConnect": "Let's Connect",
+    "letsConnectText": "Ready to bring your vision to life? Let's discuss your next project.",
+    "getInTouch": "Get In Touch",
+    "professionalOverview": "Professional Overview",
+    "longBio": "I'm a passionate Full Stack Developer from Pakistan, currently working in the Kingdom of Saudi Arabia (KSA), with expertise in building scalable web applications using .NET Core, React, and Next.js. My journey in software development has been driven by a love for creating efficient, user-friendly solutions that solve real-world problems.\n\nWith a strong foundation in backend development using .NET Core, I specialize in building robust APIs and microservices. On the frontend, I leverage modern frameworks like React and Next.js to create responsive, performant user interfaces.\n\nI have extensive experience with cloud platforms including AWS and Azure, where I design and deploy scalable, resilient applications. My expertise in containerization with Docker and orchestration with Kubernetes enables me to build modern, cloud-native architectures that are both efficient and maintainable.\n\nMy interest in AI and machine learning has led me to explore cutting-edge technologies, integrating intelligent features into applications to enhance user experiences. I'm always eager to learn new technologies and tackle challenging problems.\n\nWhen I'm not coding, you'll find me exploring the latest tech trends, contributing to open-source projects, or sharing knowledge with the developer community.",
+    "coreExpertise": "Core Expertise",
+    "fullStackBadge": "Full Stack",
+    "aiExpertBadge": "AI Expert",
+    "expertise": {
+      "fullStackDevelopment": "Full Stack Development",
+      "netCoreBackend": ".NET Core Backend",
+      "reactNextjsFrontend": "React & Next.js Frontend",
+      "aiIntegration": "AI Integration",
+      "restfulApis": "RESTful APIs",
+      "microservicesArchitecture": "Microservices Architecture",
+      "cloudComputing": "Cloud Computing (AWS, Azure)",
+      "containerizationOrchestration": "Containerization & Orchestration (Docker, Kubernetes)",
+      "devopsCicd": "DevOps & CI/CD",
+      "databaseDesign": "Database Design"
+    },
+    "technologyStack": "Technology Stack",
+    "techStackCommand": "tech-stack --show",
+    "fastDelivery": "Fast Delivery",
+    "fastDeliveryDesc": "Rapid development cycles without compromising on quality or performance",
+    "scalableSolutions": "Scalable Solutions",
+    "scalableSolutionsDesc": "Built to grow with your business, handling increased load seamlessly",
+    "innovationFirst": "Innovation First",
+    "innovationFirstDesc": "Leveraging cutting-edge technologies to create exceptional user experiences"
+  },
+  "documents": {
+    "title": "Certificates & Documents",
+    "subtitle": "Educational credentials, professional certifications, awards, and achievements",
+    "viewButton": "View Certificates & Documents",
+    "totalDocuments": "Total Documents",
+    "degrees": "Degrees",
+    "certificates": "Certificates",
+    "awards": "Awards",
+    "all": "All",
+    "education": "Education",
+    "professional": "Professional",
+    "award": "Award",
+    "achievement": "Achievement",
+    "issuedBy": "Issued by",
+    "issueDate": "Issue Date",
+    "description": "Description",
+    "documentImage": "Document Image",
+    "viewFullDocument": "View Full Document",
+    "download": "Download",
+    "viewFullSize": "View Full Size",
+    "clickToView": "Click to view",
+    "verified": "Verified",
+    "type": {
+      "degree": "degree",
+      "certificate": "certificate",
+      "award": "award"
+    }
+  },
+  "experience": {
+    "title": "Experience",
+    "subtitle": "My professional journey",
+    "present": "Present",
+    "viewDetails": "View Details",
+    "heading": "Professional Experience",
+    "headingSubtitle": "A journey through my career, highlighting key roles, achievements, and technologies I've worked with",
+    "keyResponsibilities": "Key Responsibilities",
+    "keyAchievements": "Key Achievements",
+    "technologiesUsed": "Technologies Used",
+    "jobType": {
+      "fulltime": "Full Time",
+      "parttime": "Part Time",
+      "contract": "Contract",
+      "internship": "Internship"
+    },
+    "entries": {
+      "1": {
+        "position": "Senior Full Stack Developer & AI Integrator",
+        "location": "Riyadh, Saudi Arabia",
+        "duration": "8+ months",
+        "description": "Leading development of enterprise-grade digital solutions specializing in AI-powered fintech and identity management systems across Saudi Arabia. Architecting scalable regulatory compliance platforms and mission-critical applications for government and private sector clients.",
+        "responsibilities": [
+          "Architecting and developing scalable, high-performance modules for Iltizam, a comprehensive regulatory compliance platform with advanced role-based access control (RBAC), comprehensive audit trails, and secure third-party integrations",
+          "Leading digital transformation initiatives for GACAR, the national car rental regulatory system, implementing real-time analytics dashboards, automated booking engines, and seamless payment gateway integrations",
+          "Designing and implementing enterprise-level BackOffice solutions with robust RESTful APIs, intuitive admin interfaces, granular permission management, and automated workflow orchestration",
+          "Spearheading the architecture and development of CodeX, a centralized code and configuration management platform with automated deployment pipelines, version control integration, and CI/CD capabilities",
+          "Collaborating with cross-functional teams including product managers, UX designers, and QA engineers to deliver high-quality software solutions following Agile/Scrum methodologies",
+          "Implementing security best practices including OAuth 2.0, JWT authentication, data encryption, and compliance with Saudi data protection regulations",
+          "Optimizing application performance through database query optimization, caching strategies, and code refactoring, resulting in improved response times",
+          "Mentoring junior developers and conducting code reviews to ensure adherence to coding standards and architectural patterns"
+        ],
+        "achievements": [
+          "Successfully architected and delivered multiple scalable modules for regulatory compliance platform, supporting thousands of concurrent users",
+          "Implemented real-time dashboards and booking engines for GACAR, reducing booking processing time by 60% and improving user satisfaction",
+          "Built centralized code and configuration management tool (CodeX) with CI/CD pipeline support, reducing deployment time by 70%",
+          "Delivered enterprise-level features supporting internal operations with 99.9% uptime and secure integrations with external systems",
+          "Improved application performance by 40% through optimization techniques and best practices implementation",
+          "Established coding standards and best practices, improving team productivity and code quality across projects"
+        ]
+      },
+      "2": {
+        "position": "Full Stack Developer",
+        "location": "Riyadh, Saudi Arabia",
+        "duration": "5 months",
+        "description": "Developed cutting-edge digital solutions in fintech, identity services, and travel technology sectors across Saudi Arabia. Specialized in building secure, scalable platforms for digital signatures, smart identity management, and travel facilitation systems.",
+        "responsibilities": [
+          "Led end-to-end development of Haat Sign, a secure digital signature platform with PKI infrastructure, utilizing .NET Core, ReactJS, and modern authentication protocols (OAuth 2.0, SAML)",
+          "Engineered and optimized the Haat Card module, implementing seamless issuance, activation, and lifecycle management of smart identity cards with NFC capabilities",
+          "Designed and developed backend APIs for Haat Travel, a comprehensive digital travel and visa facilitation system with real-time status tracking and document management",
+          "Implemented robust security measures including encryption at rest and in transit, secure key management, and compliance with Saudi eID standards",
+          "Optimized database queries and implemented caching strategies using Redis, improving API response times by 50%",
+          "Collaborated with product teams to define technical requirements and translate business logic into scalable technical solutions",
+          "Integrated third-party services including payment gateways, SMS providers, and government APIs for seamless user experiences",
+          "Developed responsive front-end interfaces with ReactJS, implementing state management with Redux and ensuring cross-browser compatibility"
+        ],
+        "achievements": [
+          "Successfully delivered Haat Sign platform with modern authentication, supporting thousands of digital signature transactions daily",
+          "Engineered Haat Card module enabling seamless smart identity card issuance and lifecycle management, reducing processing time by 45%",
+          "Contributed to Haat Travel system for digital travel and visa facilitation, improving application processing efficiency by 55%",
+          "Implemented performance optimizations resulting in 50% improvement in API response times and enhanced system scalability",
+          "Delivered high-quality code with 85%+ test coverage, ensuring reliability and maintainability of critical systems",
+          "Established best practices in security and scalability, contributing to company-wide technical standards"
+        ]
+      },
+      "3": {
+        "position": "Full Stack Developer",
+        "location": "Islamabad, Pakistan",
+        "duration": "3 years 6 months",
+        "description": "Developed and delivered enterprise-level applications across diverse domains including healthcare, ERP systems, document processing, and business management platforms. Played a key role in architecting scalable solutions that transformed client operations and improved efficiency.",
+        "responsibilities": [
+          "Architected and developed full-stack applications using .NET Core (C#) for robust backend APIs and ReactJS for dynamic, responsive front-end interfaces",
+          "Led development of multiple enterprise-level projects including Zasways (business management), OCR Processing System, comprehensive ERP System, TJ Health (healthcare platform), and Rised (real estate management)",
+          "Designed and implemented secure RESTful APIs with JWT-based authentication, role-based authorization, and rate limiting, improving data access speed by 40%",
+          "Integrated advanced Optical Character Recognition (OCR) using Tesseract, Google Vision API, and custom ML models to digitize and automate document processing workflows",
+          "Built comprehensive custom ERP solution with reusable component library, Redux state management, and responsive design ensuring cross-browser and cross-device compatibility",
+          "Followed Agile (Scrum) methodologies with sprint planning, daily standups, retrospectives, and continuous improvement practices",
+          "Optimized front-end performance by implementing code splitting, lazy loading, React.memo, useMemo, and useCallback hooks, reducing initial load time by 55%",
+          "Designed and optimized database schemas using Entity Framework Core and SQL Server, implementing complex queries, stored procedures, and database migrations",
+          "Established comprehensive testing practices with unit tests (xUnit), integration tests, and front-end tests (Jest, React Testing Library), achieving 80%+ code coverage",
+          "Conducted thorough code reviews, enforced Git workflows (feature branches, pull requests), and mentored 3+ junior developers in clean code principles and design patterns",
+          "Implemented real-time features using SignalR for live updates, notifications, and collaborative features",
+          "Integrated third-party services including payment gateways, SMS providers, email services, and cloud storage solutions"
+        ],
+        "achievements": [
+          "Successfully delivered 5+ enterprise-level projects (Zasways, OCR System, ERP, TJ Health, Rised) that transformed client operations across multiple industries",
+          "Achieved 80%+ code coverage across major modules through comprehensive testing practices, reducing production bugs by 60%",
+          "Optimized client operations across different domains, resulting in 50% reduction in manual processes and improved operational efficiency",
+          "Mentored 3+ junior developers, establishing coding standards and best practices that improved team productivity by 35%",
+          "Received \"Best Employee of the Quarter\" award for exceptional performance and contributions to project success",
+          "Reduced application load time by 55% through performance optimization techniques and best practices implementation",
+          "Implemented OCR system processing 10,000+ documents daily with 95%+ accuracy, significantly reducing manual data entry",
+          "Built scalable ERP system supporting 500+ concurrent users with high availability and reliability"
+        ]
+      },
+      "4": {
+        "position": "Frontend Developer",
+        "location": "Peshawar, Pakistan",
+        "duration": "2 years 4 months",
+        "description": "Launched professional career in web development, building a strong foundation in modern front-end technologies. Developed responsive, accessible, and performant user interfaces for diverse client projects, establishing expertise in user experience and interface design.",
+        "responsibilities": [
+          "Developed and maintained responsive, mobile-first user interfaces for 20+ freelance client projects, ensuring cross-device and cross-browser compatibility (Chrome, Firefox, Safari, Edge)",
+          "Converted UI/UX designs into pixel-perfect, accessible web pages using semantic HTML5, modern CSS3 (Flexbox, Grid), and progressive enhancement techniques",
+          "Built interactive, dynamic components with vanilla JavaScript (ES6+) and gradually transitioned to component-based architecture with ReactJS, improving code reusability and maintainability",
+          "Implemented responsive design principles, ensuring optimal user experience across desktop, tablet, and mobile devices",
+          "Gained hands-on experience with version control (Git/GitHub), task runners (Gulp, Webpack), build tools, and RESTful API integration",
+          "Collaborated closely with UI/UX designers and project managers to deliver engaging digital experiences for small businesses and startup clients",
+          "Optimized website performance through image optimization, code minification, lazy loading, and efficient CSS/JavaScript practices",
+          "Ensured web accessibility (WCAG 2.1) compliance and SEO best practices in all projects",
+          "Participated in client meetings to understand requirements and provide technical recommendations"
+        ],
+        "achievements": [
+          "Successfully transitioned from vanilla JavaScript to ReactJS component-based architecture, improving development efficiency by 40%",
+          "Delivered 20+ engaging digital experiences for small businesses and startup clients, resulting in improved client satisfaction and repeat business",
+          "Established strong foundation in modern web development practices, setting the stage for full-stack development career",
+          "Received \"Best Intern of the Year\" award for exceptional performance, dedication, and contributions to project success",
+          "Improved website load times by 45% through performance optimization techniques and best practices",
+          "Maintained 100% client satisfaction rate through attention to detail and commitment to quality",
+          "Contributed to agency growth by delivering high-quality projects that led to client referrals and expanded portfolio"
+        ]
+      },
+      "5": {
+        "position": "Freelance Full Stack Developer & AI Engineer",
+        "location": "Remote (Global)",
+        "duration": "4+ years",
+        "description": "Providing professional full-stack development services to clients worldwide through leading freelance platforms. Delivering high-quality web applications, APIs, and digital solutions for startups, small businesses, and enterprises across diverse industries.",
+        "responsibilities": [
+          "Developed and delivered 100+ full-stack web applications for clients worldwide, ranging from small business websites to enterprise-level systems",
+          "Built responsive, modern front-end interfaces using ReactJS, Next.js, TypeScript, and modern CSS frameworks (Tailwind CSS, Material-UI)",
+          "Architected and developed robust backend APIs using .NET Core, Node.js, and Python, implementing RESTful and GraphQL endpoints",
+          "Designed and optimized database schemas using SQL Server, PostgreSQL, MySQL, and MongoDB, ensuring data integrity and performance",
+          "Integrated third-party services including payment gateways (Stripe, PayPal), authentication providers, email services, and cloud storage",
+          "Implemented secure authentication and authorization systems using JWT, OAuth 2.0, and role-based access control (RBAC)",
+          "Optimized application performance through code optimization, database query tuning, caching strategies, and CDN implementation",
+          "Collaborated directly with clients to understand requirements, provide technical consultation, and deliver solutions that exceed expectations",
+          "Maintained 100% on-time delivery rate and 98%+ client satisfaction through effective communication and quality assurance",
+          "Managed multiple concurrent projects, ensuring timely delivery while maintaining high code quality and best practices",
+          "Provided ongoing support, maintenance, and feature enhancements for client applications post-delivery",
+          "Stayed updated with latest technologies and industry trends to offer cutting-edge solutions to clients"
+        ],
+        "achievements": [
+          "Successfully completed 100+ projects with 98%+ client satisfaction rate and 5-star ratings across platforms",
+          "Maintained 100% on-time delivery rate, building strong reputation and repeat client relationships",
+          "Achieved Top Rated status on both Fiverr and Upwork platforms through consistent high-quality work",
+          "Generated significant revenue through freelance work while building diverse portfolio across multiple industries",
+          "Received numerous positive reviews highlighting technical expertise, communication, and professionalism",
+          "Built long-term relationships with clients, resulting in repeat business and referrals",
+          "Delivered projects across various domains including e-commerce, healthcare, education, finance, and SaaS platforms",
+          "Established expertise in rapid prototyping and MVP development, helping startups launch quickly",
+          "Contributed to open-source projects and shared knowledge through technical blog posts and tutorials"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "title": "Projects",
+    "subtitle": "Some of my recent work",
+    "viewProject": "View Project",
+    "viewCode": "View Code",
+    "liveDemo": "Live Demo",
+    "heading": "My Projects",
+    "headingSubtitle": "A collection of my recent work showcasing my skills in web development, AI, and full-stack solutions",
+    "viewOnGitHub": "View on GitHub",
+    "liveDemoButton": "Live Demo",
+    "keyFeatures": "Key Features",
+    "techStack": "Tech Stack",
+    "noProjectsFound": "No projects found in this category.",
+    "featured": "Featured"
+  },
+  "skills": {
+    "title": "Skills",
+    "subtitle": "Technologies I work with",
+    "heading": "Skills & Technologies",
+    "headingSubtitle": "A comprehensive overview of my technical expertise across different domains",
+    "categories": {
+      "frontend": {
+        "name": "Frontend",
+        "description": "Modern frontend technologies and frameworks"
+      },
+      "backend": {
+        "name": "Backend",
+        "description": "Server-side development and APIs"
+      },
+      "database": {
+        "name": "Database",
+        "description": "SQL and NoSQL database technologies"
+      },
+      "aiMl": {
+        "name": "AI/ML",
+        "description": "Artificial Intelligence and Machine Learning"
+      },
+      "devopsCloud": {
+        "name": "DevOps & Cloud",
+        "description": "Containerization, orchestration, and cloud platforms"
+      }
+    },
+    "skillNames": {
+      "reactjs": "ReactJS",
+      "nextjs": "NextJS",
+      "typescript": "TypeScript",
+      "javascript": "JavaScript",
+      "tailwindCss": "Tailwind CSS",
+      "netCore": ".NET Core",
+      "csharp": "C#",
+      "nodejs": "Node.js",
+      "python": "Python",
+      "postgresql": "PostgreSQL",
+      "mysql": "MySQL",
+      "mongodb": "MongoDB",
+      "redis": "Redis",
+      "pytorch": "PyTorch",
+      "tensorflow": "TensorFlow",
+      "docker": "Docker",
+      "kubernetes": "Kubernetes",
+      "aws": "AWS",
+      "azure": "Azure"
+    }
+  },
+  "testimonials": {
+    "title": "Testimonials",
+    "subtitle": "What people say about me",
+    "heading": "Client Testimonials",
+    "headingSubtitle": "What clients say about working with me on Fiverr and Upwork",
+    "averageRating": "Average Rating",
+    "totalReviews": "Total Reviews",
+    "fiveStarReviews": "5-Star Reviews"
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "subtitle": "Have a project in mind or want to collaborate? I'd love to hear from you. Send me a message and I'll respond as soon as possible.",
+    "connectHeading": "Let's Connect",
+    "connectText": "Feel free to reach out through any of these channels. I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send Message",
+    "sending": "Sending...",
+    "success": "Message sent successfully! I'll get back to you soon.",
+    "error": "Something went wrong. Please try again or contact me directly via email.",
+    "nameRequired": "Name is required",
+    "emailRequired": "Email is required",
+    "emailInvalid": "Please enter a valid email",
+    "messageRequired": "Message is required",
+    "contactInfo": "Contact Information",
+    "followMe": "Follow Me",
+    "downloadResume": "Download Resume",
+    "locationLabel": "Location",
+    "locationFrom": "From",
+    "whatsappLabel": "WhatsApp"
+  },
+  "footer": {
+    "rights": "All rights reserved",
+    "builtWith": "Built with",
+    "quickLinks": "Quick Links",
+    "getInTouch": "Get In Touch"
+  }
+}
+

@@ -1,0 +1,328 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "about": "Über mich",
+    "experience": "Erfahrung",
+    "projects": "Projekte",
+    "skills": "Fähigkeiten",
+    "testimonials": "Referenzen",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "greeting": "Hallo, ich bin",
+    "cta": {
+      "viewWork": "Meine Arbeit ansehen",
+      "getInTouch": "Kontakt aufnehmen"
+    },
+    "scrollDown": "Nach unten scrollen",
+    "scrollToExplore": "Scrollen zum Erkunden",
+    "fullStackDeveloper": "Full Stack Entwickler",
+    "techStack": "Technologie-Stack:",
+    "codeLines": {
+      "line1": "const developer = {",
+      "line2": "  name: \"Developer\",",
+      "line3": "  skills: [\"React\", \"Next.js\", \"TypeScript\"],",
+      "line4": "  passion: \"Building amazing things\"",
+      "line5": "};"
+    },
+    "terminal": {
+      "title": "terminal",
+      "npmRun": "npm run dev",
+      "ready": "✓ Bereit in 2.3s",
+      "gitStatus": "git status",
+      "onBranch": "Auf Branch: main",
+      "codeVersion": "code --version"
+    },
+    "roles": {
+      "fullStackDeveloper": "Full Stack Entwickler",
+      "softwareEngineer": "Software-Ingenieur",
+      "aiEnthusiast": "KI-Enthusiast",
+      "problemSolver": "Problemlöser"
+    },
+    "bio": "Leidenschaftlicher Full Stack Entwickler & DevOps Ingenieur, der innovative Cloud-native Lösungen entwickelt",
+    "location": {
+      "ksa": "Königreich Saudi-Arabien (KSA)",
+      "ksaShort": "KSA"
+    }
+  },
+  "about": {
+    "title": "Über mich",
+    "subtitle": "Lernen Sie mich besser kennen",
+    "years": "Jahre Erfahrung",
+    "projects": "Abgeschlossene Projekte",
+    "clients": "Zufriedene Kunden",
+    "technologies": "Beherrschte Technologien",
+    "badge": "Über mich",
+    "heading": "Digitale Exzellenz schaffen",
+    "headingSubtitle": "Ideen in leistungsstarke, skalierbare Lösungen umwandeln, die Geschäftserfolg vorantreiben",
+    "statProjects": "Gelieferte Projekte",
+    "statCode": "Codezeilen",
+    "statSatisfaction": "Kundenzufriedenheit",
+    "statExperience": "Jahre Erfahrung",
+    "letsConnect": "Lassen Sie uns in Kontakt bleiben",
+    "letsConnectText": "Bereit, Ihre Vision zum Leben zu erwecken? Lassen Sie uns über Ihr nächstes Projekt sprechen.",
+    "getInTouch": "Kontakt aufnehmen",
+    "professionalOverview": "Beruflicher Überblick",
+    "longBio": "Ich bin ein leidenschaftlicher Full Stack Entwickler aus Pakistan, der derzeit im Königreich Saudi-Arabien (KSA) arbeitet, mit Expertise im Aufbau skalierbarer Webanwendungen mit .NET Core, React und Next.js. Meine Reise in der Softwareentwicklung wurde von der Liebe zum Erstellen effizienter, benutzerfreundlicher Lösungen angetrieben, die reale Probleme lösen.\n\nMit einer soliden Grundlage in der Backend-Entwicklung mit .NET Core spezialisiere ich mich auf den Aufbau robuster APIs und Microservices. Im Frontend nutze ich moderne Frameworks wie React und Next.js, um reaktive, leistungsstarke Benutzeroberflächen zu erstellen.\n\nIch habe umfangreiche Erfahrung mit Cloud-Plattformen einschließlich AWS und Azure, wo ich skalierbare, widerstandsfähige Anwendungen entwerfe und bereitstelle. Meine Expertise in der Containerisierung mit Docker und Orchestrierung mit Kubernetes ermöglicht es mir, moderne, cloud-native Architekturen zu bauen, die sowohl effizient als auch wartbar sind.\n\nMein Interesse an KI und maschinellem Lernen hat mich dazu geführt, modernste Technologien zu erkunden und intelligente Funktionen in Anwendungen zu integrieren, um Benutzererfahrungen zu verbessern. Ich bin immer begierig darauf, neue Technologien zu lernen und herausfordernde Probleme anzugehen.\n\nWenn ich nicht programmiere, finden Sie mich beim Erkunden der neuesten Technologietrends, beim Beitragen zu Open-Source-Projekten oder beim Teilen von Wissen mit der Entwicklergemeinschaft.",
+    "coreExpertise": "Kernkompetenzen",
+    "fullStackBadge": "Full Stack",
+    "aiExpertBadge": "KI-Experte",
+    "expertise": {
+      "fullStackDevelopment": "Full Stack Entwicklung",
+      "netCoreBackend": ".NET Core Backend",
+      "reactNextjsFrontend": "React & Next.js Frontend",
+      "aiIntegration": "KI-Integration",
+      "restfulApis": "RESTful APIs",
+      "microservicesArchitecture": "Microservices-Architektur",
+      "cloudComputing": "Cloud Computing (AWS, Azure)",
+      "containerizationOrchestration": "Containerisierung & Orchestrierung (Docker, Kubernetes)",
+      "devopsCicd": "DevOps & CI/CD",
+      "databaseDesign": "Datenbankdesign"
+    },
+    "technologyStack": "Technologie-Stack",
+    "techStackCommand": "tech-stack --show",
+    "fastDelivery": "Schnelle Lieferung",
+    "fastDeliveryDesc": "Schnelle Entwicklungszyklen ohne Kompromisse bei Qualität oder Leistung",
+    "scalableSolutions": "Skalierbare Lösungen",
+    "scalableSolutionsDesc": "Gebaut, um mit Ihrem Unternehmen zu wachsen und erhöhte Last nahtlos zu bewältigen",
+    "innovationFirst": "Innovation zuerst",
+    "innovationFirstDesc": "Nutzung modernster Technologien zur Schaffung außergewöhnlicher Benutzererfahrungen"
+  },
+  "documents": {
+    "title": "Zertifikate & Dokumente",
+    "subtitle": "Bildungsabschlüsse, Berufszertifikate, Auszeichnungen und Erfolge",
+    "viewButton": "Zertifikate & Dokumente ansehen",
+    "totalDocuments": "Gesamte Dokumente",
+    "degrees": "Abschlüsse",
+    "certificates": "Zertifikate",
+    "awards": "Auszeichnungen",
+    "all": "Alle",
+    "education": "Bildung",
+    "professional": "Beruflich",
+    "award": "Auszeichnung",
+    "achievement": "Erfolg",
+    "issuedBy": "Ausgestellt von",
+    "issueDate": "Ausstellungsdatum",
+    "description": "Beschreibung",
+    "documentImage": "Dokumentbild",
+    "viewFullDocument": "Vollständiges Dokument ansehen",
+    "download": "Herunterladen",
+    "viewFullSize": "Vollständige Größe ansehen",
+    "clickToView": "Zum Ansehen klicken",
+    "verified": "Verifiziert",
+    "type": {
+      "degree": "Abschluss",
+      "certificate": "Zertifikat",
+      "award": "Auszeichnung"
+    }
+  },
+  "experience": {
+    "title": "Erfahrung",
+    "subtitle": "Mein beruflicher Werdegang",
+    "present": "Gegenwart",
+    "viewDetails": "Details ansehen",
+    "heading": "Berufserfahrung",
+    "headingSubtitle": "Eine Reise durch meine Karriere, die wichtige Rollen, Erfolge und Technologien hervorhebt, mit denen ich gearbeitet habe",
+    "keyResponsibilities": "Schlüsselverantwortlichkeiten",
+    "keyAchievements": "Schlüsselerfolge",
+    "technologiesUsed": "Verwendete Technologien",
+    "jobType": {
+      "fulltime": "Vollzeit",
+      "parttime": "Teilzeit",
+      "contract": "Vertrag",
+      "internship": "Praktikum"
+    },
+    "entries": {
+      "1": {
+        "position": "Senior Full Stack Entwickler & KI-Integrator",
+        "location": "Riad, Saudi-Arabien",
+        "duration": "8+ Monate",
+        "description": "Führende Entwicklung von Unternehmenslösungen, die sich auf KI-gestützte Fintech- und Identitätsmanagementsysteme in ganz Saudi-Arabien spezialisieren. Architektur skalierbarer Compliance-Plattformen und mission-kritischer Anwendungen für Regierungs- und Privatsektor-Kunden.",
+        "responsibilities": [
+          "Architektur und Entwicklung skalierbarer, leistungsstarker Module für Iltizam, eine umfassende Compliance-Plattform mit erweitertem rollenbasiertem Zugriff (RBAC), umfassenden Audit-Trails und sicheren Drittanbieter-Integrationen",
+          "Führende digitale Transformationsinitiativen für GACAR, das nationale Autovermietungsregulierungssystem, Implementierung von Echtzeit-Analyse-Dashboards, automatisierten Buchungs-Engines und nahtlosen Zahlungsgateway-Integrationen",
+          "Design und Implementierung von BackOffice-Lösungen auf Unternehmensebene mit robusten RESTful-APIs, intuitiven Admin-Interfaces, granularem Berechtigungsmanagement und automatisierter Workflow-Orchestrierung",
+          "Führende Architektur und Entwicklung von CodeX, einer zentralisierten Code- und Konfigurationsverwaltungsplattform mit automatisierten Deployment-Pipelines, Versionskontroll-Integration und CI/CD-Fähigkeiten",
+          "Zusammenarbeit mit funktionsübergreifenden Teams einschließlich Produktmanagern, UX-Designern und QA-Ingenieuren zur Lieferung hochwertiger Softwarelösungen nach Agile/Scrum-Methodologien",
+          "Implementierung von Sicherheitsbest Practices einschließlich OAuth 2.0, JWT-Authentifizierung, Datenverschlüsselung und Einhaltung saudi-arabischer Datenschutzbestimmungen",
+          "Optimierung der Anwendungsleistung durch Datenbankabfrage-Optimierung, Caching-Strategien und Code-Refactoring, was zu verbesserten Antwortzeiten führte",
+          "Mentoring von Junior-Entwicklern und Durchführung von Code-Reviews zur Gewährleistung der Einhaltung von Codierungsstandards und Architekturmustern"
+        ],
+        "achievements": [
+          "Erfolgreich mehrere skalierbare Module für die Compliance-Plattform architektiert und geliefert, unterstützend Tausende gleichzeitiger Benutzer",
+          "Implementierung von Echtzeit-Dashboards und Buchungs-Engines für GACAR, Reduzierung der Buchungsbearbeitungszeit um 60% und Verbesserung der Benutzerzufriedenheit",
+          "Aufbau eines zentralisierten Code- und Konfigurationsverwaltungstools (CodeX) mit CI/CD-Pipeline-Unterstützung, Reduzierung der Deployment-Zeit um 70%",
+          "Lieferung von Funktionen auf Unternehmensebene zur Unterstützung interner Operationen mit 99.9% Uptime und sicheren Integrationen mit externen Systemen",
+          "Verbesserung der Anwendungsleistung um 40% durch Optimierungstechniken und Implementierung von Best Practices",
+          "Etablierung von Codierungsstandards und Best Practices, Verbesserung der Teamproduktivität und Codequalität über Projekte hinweg"
+        ]
+      },
+      "2": {
+        "position": "Full Stack Entwickler",
+        "location": "Riad, Saudi-Arabien",
+        "duration": "5 Monate",
+        "description": "Entwicklung modernster digitaler Lösungen in den Bereichen Fintech, Identitätsdienste und Reisetechnologie in ganz Saudi-Arabien. Spezialisiert auf den Aufbau sicherer, skalierbarer Plattformen für digitale Signaturen, intelligentes Identitätsmanagement und Reiseerleichterungssysteme.",
+        "responsibilities": [
+          "Geführtes End-to-End-Entwicklung von Haat Sign, einer sicheren digitalen Signaturplattform mit PKI-Infrastruktur, Nutzung von .NET Core, ReactJS und modernen Authentifizierungsprotokollen (OAuth 2.0, SAML)",
+          "Entwicklung und Optimierung des Haat Card-Moduls, Implementierung nahtloser Ausgabe, Aktivierung und Lebenszyklusverwaltung von Smart-Identity-Karten mit NFC-Funktionen",
+          "Design und Entwicklung von Backend-APIs für Haat Travel, ein umfassendes digitales Reise- und Visumerleichterungssystem mit Echtzeit-Status-Tracking und Dokumentenverwaltung",
+          "Implementierung robuster Sicherheitsmaßnahmen einschließlich Verschlüsselung ruhender und übertragener Daten, sicherer Schlüsselverwaltung und Einhaltung saudi-arabischer eID-Standards",
+          "Optimierung von Datenbankabfragen und Implementierung von Caching-Strategien mit Redis, Verbesserung der API-Antwortzeiten um 50%",
+          "Zusammenarbeit mit Produktteams zur Definition technischer Anforderungen und Übersetzung von Geschäftslogik in skalierbare technische Lösungen",
+          "Integration von Drittanbieterdiensten einschließlich Zahlungsgateways, SMS-Anbietern und Regierungs-APIs für nahtlose Benutzererfahrungen",
+          "Entwicklung responsiver Frontend-Interfaces mit ReactJS, Implementierung von State-Management mit Redux und Gewährleistung der Cross-Browser-Kompatibilität"
+        ],
+        "achievements": [
+          "Erfolgreiche Lieferung der Haat Sign-Plattform mit moderner Authentifizierung, unterstützend Tausende digitaler Signaturtransaktionen täglich",
+          "Entwicklung des Haat Card-Moduls zur nahtlosen Ausgabe und Lebenszyklusverwaltung von Smart-Identity-Karten, Reduzierung der Bearbeitungszeit um 45%",
+          "Beitrag zum Haat Travel-System für digitales Reisen und Visumerleichterung, Verbesserung der Antragsverarbeitungseffizienz um 55%",
+          "Implementierung von Leistungsoptimierungen, die zu einer 50%igen Verbesserung der API-Antwortzeiten und verbesserter Systemskalierbarkeit führten",
+          "Lieferung von hochwertigem Code mit 85%+ Testabdeckung, Gewährleistung der Zuverlässigkeit und Wartbarkeit kritischer Systeme",
+          "Etablierung von Best Practices in Sicherheit und Skalierbarkeit, Beitrag zu unternehmensweiten technischen Standards"
+        ]
+      },
+      "3": {
+        "position": "Full Stack Entwickler",
+        "location": "Islamabad, Pakistan",
+        "duration": "3 Jahre 6 Monate",
+        "description": "Entwicklung und Lieferung von Anwendungen auf Unternehmensebene in verschiedenen Bereichen einschließlich Gesundheitswesen, ERP-Systeme, Dokumentenverarbeitung und Geschäftsverwaltungsplattformen. Spielte eine Schlüsselrolle bei der Architektur skalierbarer Lösungen, die Kundenoperationen transformierten und die Effizienz verbesserten.",
+        "responsibilities": [
+          "Architektur und Entwicklung von Full-Stack-Anwendungen mit .NET Core (C#) für robuste Backend-APIs und ReactJS für dynamische, responsive Frontend-Interfaces",
+          "Geführtes Entwicklung mehrerer Projekte auf Unternehmensebene einschließlich Zasways (Geschäftsverwaltung), OCR-Verarbeitungssystem, umfassendes ERP-System, TJ Health (Gesundheitsplattform) und Rised (Immobilienverwaltung)",
+          "Design und Implementierung sicherer RESTful-APIs mit JWT-basierter Authentifizierung, rollenbasierter Autorisierung und Rate-Limiting, Verbesserung der Datenzugriffsgeschwindigkeit um 40%",
+          "Integration fortgeschrittener optischer Zeichenerkennung (OCR) mit Tesseract, Google Vision API und benutzerdefinierten ML-Modellen zur Digitalisierung und Automatisierung von Dokumentenverarbeitungs-Workflows",
+          "Aufbau einer umfassenden benutzerdefinierten ERP-Lösung mit wiederverwendbarer Komponentenbibliothek, Redux State-Management und responsivem Design, Gewährleistung der Cross-Browser- und Cross-Device-Kompatibilität",
+          "Befolgung von Agile (Scrum)-Methodologien mit Sprint-Planung, täglichen Standups, Retrospektiven und kontinuierlichen Verbesserungspraktiken",
+          "Optimierung der Frontend-Leistung durch Implementierung von Code-Splitting, Lazy Loading, React.memo, useMemo und useCallback Hooks, Reduzierung der anfänglichen Ladezeit um 55%",
+          "Design und Optimierung von Datenbankschemas mit Entity Framework Core und SQL Server, Implementierung komplexer Abfragen, gespeicherter Prozeduren und Datenbankmigrationen",
+          "Etablierung umfassender Testpraktiken mit Unit-Tests (xUnit), Integrationstests und Frontend-Tests (Jest, React Testing Library), Erreichen von 80%+ Code-Abdeckung",
+          "Durchführung gründlicher Code-Reviews, Durchsetzung von Git-Workflows (Feature-Branches, Pull-Requests) und Mentoring von 3+ Junior-Entwicklern in Clean-Code-Prinzipien und Design-Mustern",
+          "Implementierung von Echtzeit-Funktionen mit SignalR für Live-Updates, Benachrichtigungen und kollaborative Funktionen",
+          "Integration von Drittanbieterdiensten einschließlich Zahlungsgateways, SMS-Anbietern, E-Mail-Diensten und Cloud-Speicherlösungen"
+        ],
+        "achievements": [
+          "Erfolgreiche Lieferung von 5+ Projekten auf Unternehmensebene (Zasways, OCR-System, ERP, TJ Health, Rised), die Kundenoperationen in mehreren Branchen transformierten",
+          "Erreichen von 80%+ Code-Abdeckung über Hauptmodule durch umfassende Testpraktiken, Reduzierung von Produktionsfehlern um 60%",
+          "Optimierung von Kundenoperationen in verschiedenen Bereichen, was zu einer 50%igen Reduzierung manueller Prozesse und verbesserter operationeller Effizienz führte",
+          "Mentoring von 3+ Junior-Entwicklern, Etablierung von Codierungsstandards und Best Practices, die die Teamproduktivität um 35% verbesserten",
+          "Erhalt des \"Bester Mitarbeiter des Quartals\"-Preises für außergewöhnliche Leistung und Beiträge zum Projekterfolg",
+          "Reduzierung der Anwendungsladezeit um 55% durch Leistungsoptimierungstechniken und Implementierung von Best Practices",
+          "Implementierung eines OCR-Systems, das täglich 10.000+ Dokumente mit 95%+ Genauigkeit verarbeitet, signifikante Reduzierung der manuellen Dateneingabe",
+          "Aufbau eines skalierbaren ERP-Systems, das 500+ gleichzeitige Benutzer mit hoher Verfügbarkeit und Zuverlässigkeit unterstützt"
+        ]
+      },
+      "4": {
+        "position": "Frontend-Entwickler",
+        "location": "Peshawar, Pakistan",
+        "duration": "2 Jahre 4 Monate",
+        "description": "Start der professionellen Karriere in der Webentwicklung, Aufbau einer soliden Grundlage in modernen Frontend-Technologien. Entwicklung responsiver, zugänglicher und leistungsstarker Benutzeroberflächen für verschiedene Kundenprojekte, Etablierung von Expertise in Benutzererfahrung und Interface-Design.",
+        "responsibilities": [
+          "Entwicklung und Wartung responsiver, mobile-first Benutzeroberflächen für 20+ Freelance-Kundenprojekte, Gewährleistung der Cross-Device- und Cross-Browser-Kompatibilität (Chrome, Firefox, Safari, Edge)",
+          "Umwandlung von UI/UX-Designs in pixel-perfekte, zugängliche Webseiten mit semantischem HTML5, modernem CSS3 (Flexbox, Grid) und progressiven Verbesserungstechniken",
+          "Aufbau interaktiver, dynamischer Komponenten mit Vanilla JavaScript (ES6+) und schrittweiser Übergang zu einer komponentenbasierten Architektur mit ReactJS, Verbesserung der Code-Wiederverwendbarkeit und Wartbarkeit",
+          "Implementierung responsiver Design-Prinzipien, Gewährleistung optimaler Benutzererfahrung auf Desktop, Tablet und Mobilgeräten",
+          "Praktische Erfahrung mit Versionskontrolle (Git/GitHub), Task-Runnern (Gulp, Webpack), Build-Tools und RESTful-API-Integration",
+          "Enge Zusammenarbeit mit UI/UX-Designern und Projektmanagern zur Lieferung ansprechender digitaler Erfahrungen für kleine Unternehmen und Startup-Kunden",
+          "Optimierung der Website-Leistung durch Bildoptimierung, Code-Minifizierung, Lazy Loading und effiziente CSS/JavaScript-Praktiken",
+          "Gewährleistung der Web-Zugänglichkeit (WCAG 2.1) und SEO-Best-Practices in allen Projekten",
+          "Teilnahme an Kundentreffen zur Anforderungsverständnis und Bereitstellung technischer Empfehlungen"
+        ],
+        "achievements": [
+          "Erfolgreicher Übergang von Vanilla JavaScript zu einer komponentenbasierten ReactJS-Architektur, Verbesserung der Entwicklungseffizienz um 40%",
+          "Lieferung von 20+ ansprechenden digitalen Erfahrungen für kleine Unternehmen und Startup-Kunden, was zu verbesserter Kundenzufriedenheit und wiederholten Geschäften führte",
+          "Etablierung einer soliden Grundlage in modernen Webentwicklungspraktiken, Vorbereitung der Bühne für eine Full-Stack-Entwicklungskarriere",
+          "Erhalt des \"Bester Praktikant des Jahres\"-Preises für außergewöhnliche Leistung, Hingabe und Beiträge zum Projekterfolg",
+          "Verbesserung der Website-Ladezeiten um 45% durch Leistungsoptimierungstechniken und Best Practices",
+          "Aufrechterhaltung einer 100%igen Kundenzufriedenheitsrate durch Aufmerksamkeit für Details und Engagement für Qualität",
+          "Beitrag zum Agenturwachstum durch Lieferung hochwertiger Projekte, die zu Kundenreferenzen und erweitertem Portfolio führten"
+        ]
+      },
+      "5": {
+        "position": "Freelance Full Stack Entwickler & KI-Ingenieur",
+        "location": "Remote (Global)",
+        "duration": "4+ Jahre",
+        "description": "Bereitstellung professioneller Full-Stack-Entwicklungsdienste für Kunden weltweit über führende Freelance-Plattformen. Lieferung hochwertiger Webanwendungen, APIs und digitaler Lösungen für Startups, kleine Unternehmen und Unternehmen in verschiedenen Branchen.",
+        "responsibilities": [
+          "Entwicklung und Lieferung von 100+ Full-Stack-Webanwendungen für Kunden weltweit, von kleinen Unternehmenswebsites bis zu Systemen auf Unternehmensebene",
+          "Aufbau responsiver, moderner Frontend-Interfaces mit ReactJS, Next.js, TypeScript und modernen CSS-Frameworks (Tailwind CSS, Material-UI)",
+          "Architektur und Entwicklung robuster Backend-APIs mit .NET Core, Node.js und Python, Implementierung von RESTful- und GraphQL-Endpunkten",
+          "Design und Optimierung von Datenbankschemas mit SQL Server, PostgreSQL, MySQL und MongoDB, Gewährleistung der Datenintegrität und -leistung",
+          "Integration von Drittanbieterdiensten einschließlich Zahlungsgateways (Stripe, PayPal), Authentifizierungsanbietern, E-Mail-Diensten und Cloud-Speicher",
+          "Implementierung sicherer Authentifizierungs- und Autorisierungssysteme mit JWT, OAuth 2.0 und rollenbasiertem Zugriff (RBAC)",
+          "Optimierung der Anwendungsleistung durch Code-Optimierung, Datenbankabfrage-Tuning, Caching-Strategien und CDN-Implementierung",
+          "Direkte Zusammenarbeit mit Kunden zur Anforderungsverständnis, Bereitstellung technischer Beratung und Lieferung von Lösungen, die Erwartungen übertreffen",
+          "Aufrechterhaltung einer 100%igen pünktlichen Lieferrate und 98%+ Kundenzufriedenheit durch effektive Kommunikation und Qualitätssicherung",
+          "Verwaltung mehrerer gleichzeitiger Projekte, Gewährleistung pünktlicher Lieferung bei gleichzeitiger Aufrechterhaltung hoher Codequalität und Best Practices",
+          "Bereitstellung kontinuierlicher Unterstützung, Wartung und Funktionsverbesserungen für Kundenanwendungen nach der Lieferung",
+          "Auf dem neuesten Stand mit neuesten Technologien und Branchentrends bleiben, um modernste Lösungen für Kunden anzubieten"
+        ],
+        "achievements": [
+          "Erfolgreiche Abschluss von 100+ Projekten mit 98%+ Kundenzufriedenheitsrate und 5-Sterne-Bewertungen über Plattformen",
+          "Aufrechterhaltung einer 100%igen pünktlichen Lieferrate, Aufbau starker Reputation und wiederholter Kundenbeziehungen",
+          "Erreichen des Top-Rated-Status auf beiden Fiverr- und Upwork-Plattformen durch konsistent hochwertige Arbeit",
+          "Generierung erheblicher Einnahmen durch Freelance-Arbeit bei gleichzeitigem Aufbau eines vielfältigen Portfolios über mehrere Branchen",
+          "Erhalt zahlreicher positiver Bewertungen, die technische Expertise, Kommunikation und Professionalität hervorheben",
+          "Aufbau langfristiger Beziehungen zu Kunden, was zu wiederholten Geschäften und Referenzen führte",
+          "Lieferung von Projekten in verschiedenen Bereichen einschließlich E-Commerce, Gesundheitswesen, Bildung, Finanzen und SaaS-Plattformen",
+          "Etablierung von Expertise im Rapid Prototyping und MVP-Entwicklung, Unterstützung von Startups beim schnellen Start",
+          "Beitrag zu Open-Source-Projekten und Wissensaustausch durch technische Blog-Posts und Tutorials"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "title": "Projekte",
+    "subtitle": "Einige meiner neuesten Arbeiten",
+    "viewProject": "Projekt ansehen",
+    "viewCode": "Code ansehen",
+    "liveDemo": "Live-Demo",
+    "heading": "Meine Projekte",
+    "headingSubtitle": "Eine Sammlung meiner neuesten Arbeiten, die meine Fähigkeiten in Webentwicklung, KI und Full-Stack-Lösungen zeigt",
+    "viewOnGitHub": "Auf GitHub ansehen",
+    "liveDemoButton": "Live-Demo",
+    "keyFeatures": "Hauptfunktionen",
+    "techStack": "Technologie-Stack",
+    "noProjectsFound": "Keine Projekte in dieser Kategorie gefunden.",
+    "featured": "Ausgewählt"
+  },
+  "skills": {
+    "title": "Fähigkeiten",
+    "subtitle": "Technologien, mit denen ich arbeite",
+    "heading": "Fähigkeiten & Technologien",
+    "headingSubtitle": "Ein umfassender Überblick über meine technische Expertise in verschiedenen Bereichen"
+  },
+  "testimonials": {
+    "title": "Referenzen",
+    "subtitle": "Was die Leute über mich sagen",
+    "heading": "Kundenreferenzen",
+    "headingSubtitle": "Was Kunden über die Zusammenarbeit mit mir auf Fiverr und Upwork sagen",
+    "averageRating": "Durchschnittliche Bewertung",
+    "totalReviews": "Gesamtbewertungen",
+    "fiveStarReviews": "5-Sterne-Bewertungen"
+  },
+  "contact": {
+    "title": "Kontakt aufnehmen",
+    "subtitle": "Haben Sie ein Projekt im Kopf oder möchten Sie zusammenarbeiten? Ich würde gerne von Ihnen hören. Senden Sie mir eine Nachricht und ich werde so schnell wie möglich antworten.",
+    "name": "Name",
+    "email": "E-Mail",
+    "message": "Nachricht",
+    "send": "Nachricht senden",
+    "sending": "Wird gesendet...",
+    "success": "Nachricht erfolgreich gesendet! Ich werde mich bald bei Ihnen melden.",
+    "error": "Etwas ist schief gelaufen. Bitte versuchen Sie es erneut oder kontaktieren Sie mich direkt per E-Mail.",
+    "nameRequired": "Name ist erforderlich",
+    "emailRequired": "E-Mail ist erforderlich",
+    "emailInvalid": "Bitte geben Sie eine gültige E-Mail-Adresse ein",
+    "messageRequired": "Nachricht ist erforderlich",
+    "contactInfo": "Kontaktinformationen",
+    "followMe": "Folgen Sie mir",
+    "downloadResume": "Lebenslauf herunterladen"
+  },
+  "footer": {
+    "rights": "Alle Rechte vorbehalten",
+    "builtWith": "Erstellt mit",
+    "quickLinks": "Schnelllinks",
+    "getInTouch": "Kontakt aufnehmen"
+  }
+}
+
