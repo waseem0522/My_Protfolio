@@ -184,23 +184,30 @@ export function Footer() {
               )}
 
               {/* WhatsApp */}
-              {profileData.contact?.whatsapp && profileData.contact.whatsapp.length > 0 && (
-                <motion.a
-                  href={`https://wa.me/${profileData.contact.whatsapp[0].replace(/[^0-9]/g, '')}`}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="
-                    flex items-center gap-2
-                    text-gray-400 hover:text-green-400
-                    transition-colors duration-200
-                    text-sm
-                  "
-                  whileHover={{ x: 5 }}
-                >
-                  <FaWhatsapp className="w-4 h-4" />
-                  <span>{profileData.contact.whatsapp[0]}</span>
-                </motion.a>
-              )}
+              {(() => {
+                const primaryWhatsapp = profileData.contact?.whatsapp?.[0]
+                if (!primaryWhatsapp) return null
+
+                const whatsappHref = `https://wa.me/${primaryWhatsapp.replace(/[^0-9]/g, '')}`
+
+                return (
+                  <motion.a
+                    href={whatsappHref}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="
+                      flex items-center gap-2
+                      text-gray-400 hover:text-green-400
+                      transition-colors duration-200
+                      text-sm
+                    "
+                    whileHover={{ x: 5 }}
+                  >
+                    <FaWhatsapp className="w-4 h-4" />
+                    <span>{primaryWhatsapp}</span>
+                  </motion.a>
+                )
+              })()}
 
               {/* Email */}
               {profileData.socialLinks.email && (

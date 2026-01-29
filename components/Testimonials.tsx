@@ -146,7 +146,7 @@ export function Testimonials() {
           viewport={{ once: true, amount: 0.2 }}
           className="grid md:grid-cols-2 lg:grid-cols-3 gap-6 lg:gap-8"
         >
-          {testimonialsData.map((testimonial, index) => (
+          {testimonialsData.map((testimonial) => (
             <motion.div
               key={testimonial.id}
               variants={itemVariants}

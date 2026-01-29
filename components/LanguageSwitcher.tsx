@@ -11,7 +11,8 @@ export function LanguageSwitcher() {
   const [isOpen, setIsOpen] = useState(false)
   const dropdownRef = useRef<HTMLDivElement>(null)
 
-  const currentLanguage = languages.find((lang) => lang.code === language) || languages[0]
+  const currentLanguage =
+    (languages.find((lang) => lang.code === language) ?? languages[0]) as (typeof languages)[number]
 
   useEffect(() => {
     const handleClickOutside = (event: MouseEvent) => {
