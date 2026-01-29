@@ -94,9 +94,9 @@ export function Contact() {
     setSubmitStatus('idle')
 
     try {
-      // Using Formspree endpoint - replace with your Formspree form ID
-      // You can get one at https://formspree.io/
-      const response = await fetch('https://formspree.io/f/xvzrkonw', {
+      // Using Formspree endpoint from environment variable
+      const formspreeUrl = process.env.NEXT_PUBLIC_FORMPREE_URL || ''
+      const response = await fetch(formspreeUrl, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
