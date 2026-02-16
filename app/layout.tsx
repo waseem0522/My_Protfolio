@@ -50,7 +50,7 @@ export const metadata: Metadata = {
     siteName: `${profileData.name}'s Portfolio`,
     images: [
       {
-        url: profileData.profileImage || '/images/profile/profile-image.jpg',
+        url: profileData.profileImage || '/images/profile/profile-image.jpg' || '/images/profile/profile-image.png',
         width: 1200,
         height: 630,
         alt: `${profileData.name} - Portfolio`,
@@ -62,7 +62,7 @@ export const metadata: Metadata = {
     title: `${profileData.name} - ${profileData.roles[0]}`,
     description: profileData.bio,
     creator: profileData.socialLinks.twitter?.replace('https://twitter.com/', '@') || undefined,
-    images: [profileData.profileImage || '/images/profile/profile-image.jpg'],
+    images: [profileData.profileImage || '/images/profile/profile-image.jpg' || '/images/profile/profile-image.png'],
   },
   robots: {
     index: true,

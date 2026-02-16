@@ -94,7 +94,8 @@ When I'm not coding, you'll find me exploring the latest tech trends, contributi
     'DevOps & CI/CD',
     'Database Design',
   ],
-  profileImage: '/images/profile/profile-image.jpg',
+  // profileImage: '/images/profile/profile-image.jpg' ,
+  profileImage: '/images/profile/profile-image.png',
   socialLinks: {
     github: 'https://github.com/waseem0522',
     linkedin: 'https://www.linkedin.com/in/muhammad-waseem0522',
